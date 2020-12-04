@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Gatsby Blog`,
+    position: 'Backend developer',
     description: `Gatsby Blog criado pelo curso do Udemy.`,
     author: `@eltonsantos`,
   },
